@@ -1,0 +1,3 @@
+db_name : id21749548_db_asep
+user_db : id21749548_user_asep
+password : [KQ$ApJ+6S^<J{Q@
